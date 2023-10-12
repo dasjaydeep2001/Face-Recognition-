@@ -5,5 +5,7 @@ Our project leverages state-of-the-art techniques for precise face detection in 
 Experience real-time face recognition for both images and video feeds, making it suitable for applications that require immediate results.we ensure that faces are detected and localized in real-time, providing the speed and accuracy needed for various scenarios, including video surveillance, interactive systems, access control, and more.
 # Face Grouping:
 Our system can group recognized faces together, making it easier to organize and categorize individuals, which is especially useful for large databases.We've implemented advanced algorithms that not only identify faces but also intelligently group them, making it easy to organize and categorize individuals in your applications. 
+# Presentation
+https://drive.google.com/drive/folders/15IpsKNK0_KkMF96unFzqDGEHKnNMD3xX?usp=sharing
 
 

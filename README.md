@@ -1,6 +1,7 @@
 # Face-Recognition
 # Accurate Face Detection: 
 Our project leverages state-of-the-art techniques for precise face detection in images and videos.
+
 #Real-Time Processing:
 Experience real-time face recognition for both images and video feeds, making it suitable for applications that require immediate results.
 Face Grouping:
